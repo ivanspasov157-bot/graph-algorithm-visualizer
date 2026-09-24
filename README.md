@@ -1,7 +1,9 @@
 # Graph Algorithm Visualizer
 
 A responsive web application that works as a visualizer for graph traversal and pathfinding, allowing users to select among four different algorithms and see how they find a path between two nodes. I built this project to become more familiar with breaking down and developing a complete project, using AI as a development and learning tool, and developing a better understanding of algorithms and their practical applications.
-## Live demo(maybe)
+## Live demo
+
+https://ivan-graph-visualizer.netlify.app/ 
 
 ## Screenshots
 
