@@ -6,6 +6,10 @@ The project visualizes **Breadth-First Search (BFS), Depth-First Search (DFS), D
 
 The project was built to strengthen my understanding of graph algorithms and to gain experience turning algorithmic concepts into a complete interactive application.
 
+## Screenshot
+
+![Graph Algorithm Visualizer](screenshots/graph-visualizer-image.png)
+
 ## Live Demo
 
 [Graph Algorithm Visualizer](https://ivan-graph-visualizer.netlify.app)
